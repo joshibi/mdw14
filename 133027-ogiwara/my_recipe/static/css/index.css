@@ -1,0 +1,26 @@
+body{
+     background-image: url(../media/dot3.png);
+}
+
+.main{
+     text-align: center;
+     width: 780px;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: white;
+}
+
+.material{
+     font-weight: bold;
+     color: sienna;
+}
+
+.progression {
+    font-weight: bold;
+     color: sienna;
+}
+
+.comment {
+    font-size: 18px; color: sienna;
+    font-weight: bold;
+}

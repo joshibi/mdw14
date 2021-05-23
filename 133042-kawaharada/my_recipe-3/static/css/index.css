@@ -1,0 +1,145 @@
+.back{
+
+}
+
+.pagecontent {
+    background-image: url("../media/border.jpg");
+    background-repeat:repeat;
+}
+
+
+.main{
+     background-color: #ffffff;
+     width: 600px;
+     height:2150px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.title{
+    text-align: center;
+    position:relative;
+    bottom:168px;
+}
+
+.materialgreen{
+    text-align: center;
+}
+
+.texttop{
+    text-align: center;
+    position:relative;
+    bottom:230px;
+}
+
+.mg{
+    text-align: center;
+    position: relative;
+    bottom: 230px;
+}
+
+.material{
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+
+}
+
+.step{
+    text-align: center;
+    position: relative;
+    bottom: 260px;
+
+}
+
+.stepa{
+    text-align:left;
+    position: relative;
+    left:10px;
+    bottom: 290px;
+}
+
+.stepi{
+    text-align:right;
+    position: relative;
+    right:10px;
+    bottom: 520px;
+}
+
+
+.stepu{
+    text-align:left;
+    position: relative;
+    left:10px;
+    bottom: 750px;
+}
+
+
+.stepe{
+    text-align:right;
+    position: relative;
+    bottom: 970px;
+}
+
+.recipe{
+    text-align:left;
+    position: relative;
+    left:30px;
+    bottom: 300px;
+}
+
+.recipe2{
+    text-align:right;
+    position: relative;
+    right:20px;
+    bottom: 530px;
+}
+
+.recipe3{
+    text-align:left;
+    position: relative;
+    left:30px;
+    bottom: 760px;
+}
+
+.recipe4{
+    text-align:right;
+    position: relative;
+    right:20px;
+    bottom: 970px;
+}
+
+.recipetext{
+    text-align:right;
+    position: relative;
+    right:70px;
+    bottom: 510px;
+
+}
+.recipetext2{
+    text-align:left;
+    position: relative;
+    left: 50px;
+    bottom: 730px;
+}
+
+.recipetext3{
+    text-align:right;
+    position: relative;
+    right: 70px;
+    bottom: 970px;
+}
+
+.recipetext4{
+    text-align:left;
+    position: relative;
+    left: 50px;
+    bottom: 1170px;
+}
+
+
+.yerrow{
+    position: relative;
+    bottom: 1130px;
+}
+

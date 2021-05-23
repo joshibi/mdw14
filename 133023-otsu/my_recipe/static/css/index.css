@@ -1,0 +1,38 @@
+body {
+    background-image: url(../media/p.png);
+}
+
+.main{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    background-image: url('../media/photo0.png');
+    background-repeat: no-repeat;
+    background-position: 210px 25px;
+}
+
+h2{
+    margin-left: 10px;
+}
+
+.lead{
+    margin: 100px;
+    padding: 100px;
+}
+
+
+.recipe {
+}
+
+.recipe-item p {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.item-photo {
+}
+
+.item-text {
+}

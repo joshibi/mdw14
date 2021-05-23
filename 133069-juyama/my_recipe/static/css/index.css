@@ -1,0 +1,55 @@
+.cf:before, .cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after { clear: both; }
+
+.cf { *zoom: 1; }
+
+
+body{
+    background-image: url("../media/haikei1.png");
+}
+.pagecontent {
+    padding: 24px;
+
+}
+.main{background-color:#c6cdb9;
+    width: 600px;
+    margin-left: auto;
+    margin-right:auto;
+
+}
+.lead{
+    margin: 100px;
+    padding: 100px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+img{
+    max-width:100%;
+    height:auto;
+}
+.title{margin-left: auto;
+       margin-right:auto;
+}
+
+.box {
+  /*background: #eee;*/
+  margin-bottom: 10px;
+}
+
+.box-left {
+  /*width: 128px;*/
+  float: left;
+}
+
+.box-right {
+  margin-left: 300px;
+  padding: 10px/* 左寄せしたい内容の幅 + 開けたい隙間 */
+}
+
+
+

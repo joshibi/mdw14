@@ -1,0 +1,60 @@
+ body {
+    background-image:url(../media/heya3.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:50% calc(50% + 220px);
+}
+
+
+.frame {
+    display: none;
+}
+
+.scene {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    /*background-size: contain;*/
+    /*background-size: cover;*/
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    display: none;
+}
+
+.f1 {background-image: url('../media/flash1.png'); display: block;}
+.f2 {background-image: url('../media/flash2.png');}
+.f3 {background-image: url('../media/flash3.png');}
+.f4 {background-image: url('../media/flash4.png');}
+.f5 {background-image: url('../media/flash5.png');}
+.f6 {background-image: url('../media/flash6.png');}
+.f7 {background-image: url('../media/flash7.png');}
+.f8 {background-image: url('../media/flash8.png');}
+.f9 {background-image: url('../media/flash9.png');}
+.f10 {background-image: url('../media/flash10.png');}
+.f11 {background-image: url('../media/flash11.png');}
+.f12 {background-image: url('../media/flash12.png');}
+.f13 {background-image: url('../media/flash13.png');}
+.f14 {background-image: url('../media/flash14.png');}
+.f15 {background-image: url('../media/flash15.png');}
+.f16 {background-image: url('../media/flash16.png');}
+.f17 {background-image: url('../media/flash17.png');}
+.f18 {background-image: url('../media/flash18.png');}
+.f19 {background-image: url('../media/flash19.png');}
+.f20 {background-image: url('../media/flash20.png');}
+.f21 {background-image: url('../media/flash21.png');}
+.f22 {background-image: url('../media/flash22.png');}
+.f23 {background-image: url('../media/flash23.png');}
+.f24 {background-image: url('../media/flash24.png');}
+.f25 {background-image: url('../media/flash25.png');}
+.f26 {background-image: url('../media/flash26.png');}
+.f27 {background-image: url('../media/flash27.png');}
+.f28 {background-image: url('../media/flash28-final.png');}
+.f29 {background-image: url('../media/flash29-final.png');}
+.f30 {background-image: url('../media/flash30-final.png');}
+.f31 {background-image: url('../media/flash31-final2.png');}
+.f32 {background-image: url('../media/flash32-final.png');}
+.f33 {background-image: url('../media/flash33-final.png');}
+.f34 {background-image: url('../media/flash34-final3.png');}

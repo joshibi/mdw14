@@ -1,0 +1,113 @@
+body {
+    background-image:url(../media/__.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.frame {
+    display: none;
+}
+
+.scene {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    /*
+    background-size: contain;
+    background-size: cover;
+    */
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    display: none;
+    z-index: 1;
+}
+
+
+
+.frame {
+    display: none;
+}
+
+
+.f1 {background-image: url('../media/1.png'); display: block;}
+.f2 {background-image: url('../media/2.png');}
+.f3 {background-image: url('../media/3.png');}
+.f4 {background-image: url('../media/4.png');}
+.f5 {background-image: url('../media/5.png');}
+.f6 {background-image: url('../media/6.png');}
+.f7 {background-image: url('../media/7.png');}
+.f8 {background-image: url('../media/8.png');}
+.f9 {background-image: url('../media/9.png');}
+.f10 {background-image: url('../media/10.png');}
+.f11 {background-image: url('../media/11.png');}
+.f12 {background-image: url('../media/12.png');}
+.f13 {background-image: url('../media/13.png');}
+.f14 {background-image: url('../media/14.png');}
+.f15 {background-image: url('../media/15.png');}
+.f16 {background-image: url('../media/16.png');}
+.f17 {background-image: url('../media/17.png');}
+.f18 {background-image: url('../media/18.png');}
+.f19 {background-image: url('../media/19.png');}
+.f20 {background-image: url('../media/20.png');}
+.f21 {background-image: url('../media/21.png');}
+.f22 {background-image: url('../media/22.png');}
+.f23 {background-image: url('../media/23.png');}
+.f24 {background-image: url('../media/24.png');}
+.f25 {background-image: url('../media/25.png');}
+.f26 {background-image: url('../media/26.png');}
+.f27 {background-image: url('../media/27.png');}
+.f28 {background-image: url('../media/28.png');}
+.f29 {background-image: url('../media/29.png');}
+.f30 {background-image: url('../media/30.png');}
+.f31 {background-image: url('../media/31.png');}
+.f32 {background-image: url('../media/32.png');}
+.f33 {background-image: url('../media/33.png');}
+.f34 {background-image: url('../media/34.png');}
+.f35 {background-image: url('../media/35.png');}
+.f36 {background-image: url('../media/36.png');}
+.f37 {background-image: url('../media/37.png');}
+.f38 {background-image: url('../media/38.png');}
+.f39 {background-image: url('../media/39.png');}
+.f40 {background-image: url('../media/40.png');}
+.f41 {background-image: url('../media/41.png');}
+.f42 {background-image: url('../media/42.png');}
+.f43 {background-image: url('../media/43.png');}
+.f44 {background-image: url('../media/44.png');}
+.f45 {background-image: url('../media/45.png');}
+.f46 {background-image: url('../media/46.png');}
+.f47 {background-image: url('../media/47.png');}
+.f48 {background-image: url('../media/48.png');}
+.f49 {background-image: url('../media/49.png');}
+.f50 {background-image: url('../media/50.png');}
+.f51 {background-image: url('../media/51.png');}
+.f52 {background-image: url('../media/52.png');}
+.f53 {background-image: url('../media/53.png');}
+.f54 {background-image: url('../media/54.png');}
+.f55 {background-image: url('../media/55.png');}
+.f56 {background-image: url('../media/56.png');}
+.f57 {background-image: url('../media/57.png');}
+.f58 {background-image: url('../media/58.png');}
+.f59 {background-image: url('../media/59.png');}
+.f60 {background-image: url('../media/60.png');}
+.f61 {background-image: url('../media/61.png');}
+.f62 {background-image: url('../media/62.png');}
+.f63 {background-image: url('../media/63.png');}
+.f64 {background-image: url('../media/64.png');}
+.f65 {background-image: url('../media/65.png');}
+.f66 {background-image: url('../media/66.png');}
+.f67 {background-image: url('../media/67.png');}
+.f68 {background-image: url('../media/68.png');}
+.f69 {background-image: url('../media/69.png');}
+.f70 {background-image: url('../media/70.png');}
+.f71 {background-image: url('../media/71.png');}
+.f72 {background-image: url('../media/72.png');}
+.f73 {background-image: url('../media/73.png');}
+.f74 {background-image: url('../media/74.png');}
+.f75 {background-image: url('../media/75.png');}
+.f76 {background-image: url('../media/76.png');}
+.f77 {background-image: url('../media/77.png');}
+.f78 {background-image: url('../media/78.png');}

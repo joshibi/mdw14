@@ -1,0 +1,89 @@
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+body{
+    /*
+    background: #ffe196 url(../media/border.png) repeat-x top;
+    */
+
+    background: url(../media/background.png);
+
+}
+.pagecontent {
+}
+.main{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+    font-family: sans-serif;
+    color: #4c260a;
+}
+.box{
+    width: 600px;
+    margin: 50px 0px 0px 0px;
+}
+.boxle{
+    float: left;
+    width: 210px;
+    height: 350px;
+    margin: 0px;
+
+}
+.boxlto{
+    margin: 0px;
+}
+.boxlbo{
+    color: #006419;
+    width: 180px;
+    height: 205px;
+    margin: 10px 0px 0px 0px;
+    font-size: 14px;
+    background-color: #ffffff;
+    padding: 10px;
+
+}
+.boxri{
+    float: right;
+}
+.top
+{
+    margin: 75px 0px 0px 0px;
+    width: 600px;
+    height: 400px;
+}
+.tople{
+    float: left;
+}
+.topri{
+    float: right;
+}
+.toprto{
+}
+.toprbo{
+    float: right;
+    width: 163px;
+    height: 200px;
+    line-height: 110%;
+
+    color: #ffffff;
+    font-size: 12px;
+    background-color: #006419;
+    padding: 0px 6px 0px 6px;
+    margin: 10px 0px 0px 0px;
+}
+h2{
+    color: #ffffff;
+    line-height: 70%
+}

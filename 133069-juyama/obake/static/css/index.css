@@ -1,0 +1,74 @@
+
+body {background-image:url("../media/kaikeiobake.png");
+text-align: center;
+    }
+.main {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 800px;
+    text-align: center;
+    margin-left:-400px;
+    z-index: 10; /* .sceneより大きい値にすると上に重なる */
+}
+/*
+.main{
+     margin-left: auto;
+    margin-right:auto;
+}
+*/
+.frame {
+    margin-left: auto;
+    margin-right:auto;
+    display: none;
+}
+
+.scene {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    /*background-size: contain;*/
+    /*background-size: cover;*/
+    background-attachment: fixed;
+    background-position: 50% 400px;　/* x y */
+    display: none;
+}
+.f1 {background-image: url('../media/w_image.png'); display: block;}
+.f2 {background-image: url('../media/wimage2.png');}
+.f3 {background-image: url('../media/wimage3.png');}
+.f4 {background-image: url('../media/wimage4.png');}
+.f5 {background-image: url('../media/wimage5.png');}
+.f6 {background-image: url('../media/wimage6.png');}
+.f7 {background-image: url('../media/wimage7.png');}
+.f8 {background-image: url('../media/wimage8.png');}
+.f9 {background-image: url('../media/wimage9.png');}
+.f10 {background-image: url('../media/wimage10.png');}
+.f11 {background-image: url('../media/wimage11.png');}
+.f12 {background-image: url('../media/wimage13.png');}
+.f13 {background-image: url('../media/wimage15.png');}
+.f14 {background-image: url('../media/wimage16.png');}
+.f15 {background-image: url('../media/wimage17.png');}
+.f16 {background-image: url('../media/wimage18.png');}
+.f17 {background-image: url('../media/wimage19.png');}
+.f18 {background-image: url('../media/wimage21.png');}
+.f19 {background-image: url('../media/wimage22.png');}
+.f20 {background-image: url('../media/wimage39.png');}
+.f21 {background-image: url('../media/wimage41.png');}
+.f22 {background-image: url('../media/wimage27.png');}
+.f23 {background-image: url('../media/wimage28.png');}
+.f24 {background-image: url('../media/wimage29.png');}
+.f25{background-image: url('../media/wimage30.png');}
+.f26{background-image: url('../media/wimage31.png');}
+.f27{background-image: url('../media/wimage32.png');}
+.f28 {background-image: url('../media/wimage33.png');}
+.f29 {background-image: url('../media/wimage35.png');}
+
+.last {background-color:#8957a1;
+    width: 600px;
+    margin-left: auto;
+    margin-right:auto;
+    display: none;
+}

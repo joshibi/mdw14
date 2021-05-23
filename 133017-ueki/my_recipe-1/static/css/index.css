@@ -1,0 +1,76 @@
+.cf:before, .cf:after {content: " ";display: table;}.cf:after { clear: both; }.cf:after { zoom: 1; }
+/*****************/
+
+
+body{
+      background-image:url("../media/back.png");
+      /*background-attachment: fixed;*/
+      font-family: serif;
+      color: #000;
+}
+
+.pagecontent {
+}
+
+.main{
+    background-color: #fff;
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    margin-left: 45px;
+    font-weight: bold;
+}
+
+/* 左にしたいもの */
+.box-left {
+    float: left;
+
+}
+
+/* 右にしたいもの */
+.box-right {
+    float: right;
+
+}
+
+/* 材料 */
+.material {
+    margin-left: 40px;
+    margin-right: -20px;
+}
+
+/* 材料で左にしたいもの */
+.material .box-left {
+    width: 248px;
+}
+
+/* 材料で右にしたいもの */
+.material .box-right {
+    margin-top: 30px;
+    width: 240px;
+}
+
+/* 作り方 */
+.steps {
+    margin-left: 50px;
+    margin-right: -50px;
+}
+
+/* 作り方で左にしたいもの */
+.steps .box-left {
+    margin-top: 75px;
+    width: 300px;
+}
+
+/* 作り方で右にしたいもの */
+.steps .box-right {
+    width: 300px;
+}
+
+.two{
+    margin-left: 13px;
+    margin-top: 12px;
+}

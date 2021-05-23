@@ -1,0 +1,21 @@
+
+.body{
+    background-image: url(../media/back.jpg);
+    background-repeat:repeat;
+}
+.main {
+    font-family: "ＭＳ 明朝",serif;
+    color:navy;
+    margin-left:auto;
+    margin-right:auto;
+    width:600px;
+    }
+span {
+    padding:10px;}
+.img {
+    display: block;
+    margin:40px auto 10px auto;
+    }
+ul li {
+    list-style-type: none;
+    }

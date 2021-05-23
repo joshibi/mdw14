@@ -1,0 +1,21 @@
+
+.pagecontent {
+    padding: 24px;
+}
+body {
+       background-image: url(../media/gausume.png);
+}
+
+li {
+    font-weight: bold;
+}
+p {
+    background-color: white;
+    font-weight: bold;
+}
+.main {
+    background-color: white;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
